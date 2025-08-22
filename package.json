@@ -1,8 +1,8 @@
 {
-  "name": "trumbowyg",
+  "name": "isys-trumbowyg",
   "title": "Trumbowyg",
   "description": "A lightweight WYSIWYG editor",
-  "version": "2.31.0",
+  "version": "2.31.1",
   "main": "dist/trumbowyg.js",
   "license": "MIT",
   "scripts": {
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alex-D/Trumbowyg.git"
+    "url": "https://github.com/iSYS-Software/Trumbowyg.git"
   },
   "bugs": {
-    "url": "https://github.com/Alex-D/Trumbowyg/issues"
+    "url": "https://github.com/iSYS-Software/Trumbowyg/issues"
   },
   "keywords": [
     "wysiwyg",
