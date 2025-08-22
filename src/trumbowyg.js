@@ -1306,6 +1306,7 @@ Object.defineProperty(jQuery.trumbowyg, 'defaultOptions', {
                 title,
                 target,
                 linkDefaultTarget = t.o.linkTargets[0];
+            text = text.replace(/ xmlns="[^"]+"/, ''); // remove xmlns attribute
 
             while (['A', 'DIV'].indexOf(node.nodeName) < 0) {
                 node = node.parentNode;
